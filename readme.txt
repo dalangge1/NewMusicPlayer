@@ -1,13 +1,20 @@
-·ÂÍøÒ×ÔÆ²¥·ÅÆ÷v1.0
+ä»¿ç½‘æ˜“äº‘æ’­æ”¾å™¨v1.0
 
-Ö§³Ö¹¦ÄÜ£ºÍÆ¼ö¸èµ¥£¬ËÑË÷£¬¸öÈËÖĞĞÄ£¬ÎÒµÄ¸èµ¥£¬×îĞÂ×¨¼­£¨ÔİÊ±²»ÄÜµã½øÈ¥£©¡£»¹ÓĞÒ»Ğ©ÁãËéµÄ¹¦ÄÜÒòÎªÊ±¼äÎÊÌâÃ»ÓĞ¼ÓÈë½øÈ¥£¬×öµÄ±È½Ï´Ö²Ú¡£
+æ”¯æŒåŠŸèƒ½ï¼šæ¨èæ­Œå•ï¼Œæœç´¢ï¼Œä¸ªäººä¸­å¿ƒï¼Œæˆ‘çš„æ­Œå•ï¼Œæœ€æ–°ä¸“è¾‘ï¼ˆæš‚æ—¶ä¸èƒ½ç‚¹è¿›å»ï¼‰ã€‚è¿˜æœ‰ä¸€äº›é›¶ç¢çš„åŠŸèƒ½å› ä¸ºæ—¶é—´é—®é¢˜æ²¡æœ‰åŠ å…¥è¿›å»ï¼Œåšçš„æ¯”è¾ƒç²—ç³™ã€‚
 
-ÓĞĞı×ªµÄÍ¼Æ¬view£¬Í¨ÖªÀ¸ÏÔÊ¾ÒôÀÖ¿ØÖÆÒôÀÖ²¥·Å£¬Ëæ»ú²¥·ÅµÈ
+æœ‰æ—‹è½¬çš„å›¾ç‰‡viewï¼Œé€šçŸ¥æ æ˜¾ç¤ºéŸ³ä¹æ§åˆ¶éŸ³ä¹æ’­æ”¾ï¼Œéšæœºæ’­æ”¾ç­‰
 
-Õ¹Ê¾Í¼Æ¬ÔÚ¡°pictures¡±ÎÄ¼ş¼ĞÏÂ¡£¡£ÒòÎª²»»á²åÈëÍ¼Æ¬µ½readmeÀï
+å±•ç¤ºå›¾ç‰‡åœ¨â€œpicturesâ€æ–‡ä»¶å¤¹ä¸‹
 
-ºËĞÄÖªÊ¶µã£ºËÄ´ó×é¼ş£¬×Ô¶¨Òåview£¬»¬¶¯³åÍ»£¨ÊÂ¼ş·Ö·¢£©£¬·´Éä£¨ÔÚjson½âÎöÖĞ£©£¬Ïß³Ì£¬Í¼Æ¬»º´æ£¬²¿·ÖMVVM£¨Ö»ÓĞ²¥·ÅÆ÷²¿·ÖÓÃÁËMVVM¼Ü¹¹£¬ÆäËû²¿·Ö»¹ÊÇ×Ô¼ºµÄfragment¹Ü×Ô¼ºµÄÊı¾İºÍÍøÂçÇëÇó£¬Í¨¹ıcallback£©¡£×Ô¼ºÊµÏÖÁËJSonObject¡¢JSonArray¡¢JSonEval£¨ÀàËÆGson£©½âÎö£¬×Ô¼ºÊµÏÖÁËÀàËÆÓÚGlideµÄÍ¼Æ¬¼ÓÔØ¹¦ÄÜ¡£
+æ ¸å¿ƒçŸ¥è¯†ç‚¹ï¼šå››å¤§ç»„ä»¶ï¼Œè‡ªå®šä¹‰viewï¼Œæ»‘åŠ¨å†²çªï¼ˆäº‹ä»¶åˆ†å‘ï¼‰ï¼Œåå°„ï¼ˆåœ¨jsonè§£æä¸­ï¼‰ï¼Œçº¿ç¨‹ï¼Œå›¾ç‰‡ç¼“å­˜ï¼Œéƒ¨åˆ†MVVMï¼ˆåªæœ‰æ’­æ”¾å™¨éƒ¨åˆ†ç”¨äº†MVVMæ¶æ„ï¼Œå…¶ä»–éƒ¨åˆ†è¿˜æ˜¯è‡ªå·±çš„fragmentç®¡è‡ªå·±çš„æ•°æ®å’Œç½‘ç»œè¯·æ±‚ï¼Œé€šè¿‡callbackï¼‰ã€‚è‡ªå·±å®ç°äº†JSonObjectã€JSonArrayã€JSonEvalï¼ˆç±»ä¼¼Gsonï¼‰è§£æï¼Œè‡ªå·±å®ç°äº†ç±»ä¼¼äºGlideçš„å›¾ç‰‡åŠ è½½åŠŸèƒ½ã€‚
 
-Óöµ½ÎÊÌâ£ºÓĞÊ±dataBindingÕÒ²»µ½×Ô¶¨ÒåviewÀà¡¢swipeRefreshView¶àrecyclerViewÇ¶Ì×Ê±»¬¶¯³åÍ»µ¼ÖÂ×ÓrecyclerViewÎŞ·¨»¬¶¯£¨ÒÑÍ¨¹ı×Ô¶¨ÒårecyclerView½â¾ö£©¡£navigationÒòÎªÊÇµÚÒ»´ÎÓÃËùÒÔÓĞµã´Ö²Ú¡£
+é‡åˆ°é—®é¢˜ï¼šæœ‰æ—¶dataBindingæ‰¾ä¸åˆ°è‡ªå®šä¹‰viewç±»ã€swipeRefreshViewå¤šrecyclerViewåµŒå¥—æ—¶æ»‘åŠ¨å†²çªå¯¼è‡´å­recyclerViewæ— æ³•æ»‘åŠ¨ï¼ˆå·²é€šè¿‡è‡ªå®šä¹‰recyclerViewè§£å†³ï¼‰ã€‚navigationå› ä¸ºæ˜¯ç¬¬ä¸€æ¬¡ç”¨æ‰€ä»¥æœ‰ç‚¹ç²—ç³™ã€‚
 
-µÇÂ¼Ê±¿ÉÖ±½Óµã»÷¡°Á¢¼´µÇÂ¼°´Å¥¡±£¬ÆäËû²Ù×÷²½ÖèÓë¿¼ºËÎÄµµ´óÖÂÏàÍ¬¡£
+ç™»å½•æ—¶å¯ç›´æ¥ç‚¹å‡»â€œç«‹å³ç™»å½•æŒ‰é’®â€ï¼Œå…¶ä»–æ“ä½œæ­¥éª¤ä¸è€ƒæ ¸æ–‡æ¡£å¤§è‡´ç›¸åŒã€‚
+
+![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210754_com.example.newmusicpl.jpg)
+![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210745_com.example.newmusicpl.jpg)
+![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210754_com.example.newmusicpl.jpg)
+![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210802_com.example.newmusicpl.jpg)
+![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210805_com.example.newmusicpl.jpg)
+![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_221917_com.example.newmusicpl.jpg)
