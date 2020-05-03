@@ -12,9 +12,9 @@
 
 登录时可直接点击“立即登录按钮”，其他操作步骤与考核文档大致相同。
 
-![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210754_com.example.newmusicpl.jpg)
-![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210745_com.example.newmusicpl.jpg)
-![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210754_com.example.newmusicpl.jpg)
-![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210802_com.example.newmusicpl.jpg)
-![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210805_com.example.newmusicpl.jpg)
-![image](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_221917_com.example.newmusicpl.jpg)
+![image text](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210754_com.example.newmusicpl.jpg)
+![image text](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210745_com.example.newmusicpl.jpg)
+![image text](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210754_com.example.newmusicpl.jpg)
+![image text](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210802_com.example.newmusicpl.jpg)
+![image text](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_210805_com.example.newmusicpl.jpg)
+![image text](https://github.com/sandyz987/NewMusicPlayer/blob/master/pictures/Screenshot_20200503_221917_com.example.newmusicpl.jpg)
